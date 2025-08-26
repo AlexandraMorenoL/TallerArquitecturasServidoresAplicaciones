@@ -1,0 +1,10 @@
+co\edu\escuelaing\httpserver\Client.class
+co\edu\escuelaing\httpserver\Router.class
+co\edu\escuelaing\httpserver\URLReader.class
+co\edu\escuelaing\httpserver\HttpServer.class
+co\edu\escuelaing\httpserver\Server.class
+co\edu\escuelaing\httpserver\URLParser.class
+co\edu\escuelaing\example\App.class
+co\edu\escuelaing\httpserver\HttpRequest.class
+co\edu\escuelaing\httpserver\HttpResponse.class
+co\edu\escuelaing\httpserver\FunctionalHandler.class
