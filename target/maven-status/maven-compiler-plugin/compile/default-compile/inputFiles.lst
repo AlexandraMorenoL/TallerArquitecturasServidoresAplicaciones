@@ -1,10 +1,6 @@
-C:\Users\alexandra.moreno-l\Downloads\httpserver\httpserver\src\main\java\co\edu\escuelaing\httpserver\FunctionalHandler.java
-C:\Users\alexandra.moreno-l\Downloads\httpserver\httpserver\src\main\java\co\edu\escuelaing\httpserver\HttpResponse.java
-C:\Users\alexandra.moreno-l\Downloads\httpserver\httpserver\src\main\java\co\edu\escuelaing\httpserver\URLParser.java
-C:\Users\alexandra.moreno-l\Downloads\httpserver\httpserver\src\main\java\co\edu\escuelaing\httpserver\Client.java
-C:\Users\alexandra.moreno-l\Downloads\httpserver\httpserver\src\main\java\co\edu\escuelaing\httpserver\URLReader.java
-C:\Users\alexandra.moreno-l\Downloads\httpserver\httpserver\src\main\java\co\edu\escuelaing\httpserver\HttpRequest.java
-C:\Users\alexandra.moreno-l\Downloads\httpserver\httpserver\src\main\java\co\edu\escuelaing\example\App.java
-C:\Users\alexandra.moreno-l\Downloads\httpserver\httpserver\src\main\java\co\edu\escuelaing\httpserver\Router.java
-C:\Users\alexandra.moreno-l\Downloads\httpserver\httpserver\src\main\java\co\edu\escuelaing\httpserver\HttpServer.java
-C:\Users\alexandra.moreno-l\Downloads\httpserver\httpserver\src\main\java\co\edu\escuelaing\httpserver\Server.java
+/Users/macbookair/Documents/AREP/TallerArquitecturasServidoresAplicaciones/src/main/java/co/edu/escuelaing/GetMapping.java
+/Users/macbookair/Documents/AREP/TallerArquitecturasServidoresAplicaciones/src/main/java/co/edu/escuelaing/GreetingController.java
+/Users/macbookair/Documents/AREP/TallerArquitecturasServidoresAplicaciones/src/main/java/co/edu/escuelaing/HelloController.java
+/Users/macbookair/Documents/AREP/TallerArquitecturasServidoresAplicaciones/src/main/java/co/edu/escuelaing/HttpServer.java
+/Users/macbookair/Documents/AREP/TallerArquitecturasServidoresAplicaciones/src/main/java/co/edu/escuelaing/RequestParam.java
+/Users/macbookair/Documents/AREP/TallerArquitecturasServidoresAplicaciones/src/main/java/co/edu/escuelaing/RestController.java
